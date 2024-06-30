@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+mysql-connector-python
+nltk
+fuzzywuzzy
+python-Levenshtein
+gensim==4.0.1  
+scipy==1.7.3   
+pandas
